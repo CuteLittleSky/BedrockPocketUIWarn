@@ -2,7 +2,7 @@
 warn-type: "form"
 
 message:
-  message: "§c[温馨提示] 请用经典界面"
+  message: "§c[温馨提示] 请用经典界面 §f设置方法: §6"
   message-delay: 60
 
 kick:
